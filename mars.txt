@@ -6,3 +6,4 @@ paf
 ligne en conflit
 On simplement une autre
 ou pourquoi pas celle là !!
+En fait il faut litéralement enlever une ligne et la remplacer par une autre pour créer le conflit
