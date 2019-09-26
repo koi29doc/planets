@@ -3,7 +3,7 @@ But the moon is better because it is closer
 Still sessential
 plouf
 paf
-ligne en conflit
+C'est une ligne en conflict oui ou merde
 On simplement une autre
 ou pourquoi pas celle là !!
 En fait il faut litéralement enlever une ligne et la remplacer par une autre pour créer le conflit
